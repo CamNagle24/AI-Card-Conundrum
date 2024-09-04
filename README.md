@@ -1,2 +1,2 @@
 # AI-Card-Conundrum
-Algorithm of Best Outcome in an UnoWar style card game
+Algorithm for Best Strategy in an UnoWar Style Card Game
