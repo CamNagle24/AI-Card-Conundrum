@@ -3,7 +3,7 @@ Algorithm for Best Strategy in an UnoWar Style Card Game!
 
 ## Check Out the WinRates Below!
 
-<img src="Code/assets/WinRate.png" width="100">
+<img src="Code/assets/WinRate.png" width="600">
 
 ## <a href="https://www.youtube.com/watch?v=UNz9k9E9IWM"> Demo Video on YouTube </a>
 
