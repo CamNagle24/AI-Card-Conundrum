@@ -5,6 +5,9 @@ Algorithm for Best Strategy in an UnoWar Style Card Game!
 
 <img src="Code/assets/WinRate.png" width="600">
 
+### What I Learned
+- 
+
 ## <a href="https://www.youtube.com/watch?v=UNz9k9E9IWM"> Demo Video on YouTube </a>
 
 ## Setup
