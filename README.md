@@ -6,7 +6,11 @@ Algorithm for Best Strategy in an UnoWar Style Card Game!
 <img src="Code/assets/WinRate.png" width="600">
 
 ### What I Learned
-- 
+- Inheritance and Polymorphism
+-  How AI driven simulations can provide insight into competitive game playing.
+- Using arrays for task-specific data structures
+- Class relationships between objects and object oriented design
+- Algorithm Efficiency
 
 ## <a href="https://youtu.be/MvkVEJQBbEE?si=MKLAcNZ8uNQCImKI"> Demo Video on YouTube </a>
 
