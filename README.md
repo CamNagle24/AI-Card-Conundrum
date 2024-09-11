@@ -8,7 +8,7 @@ Algorithm for Best Strategy in an UnoWar Style Card Game!
 ### What I Learned
 - 
 
-## <a href="https://www.youtube.com/watch?v=UNz9k9E9IWM"> Demo Video on YouTube </a>
+## <a href="https://youtu.be/MvkVEJQBbEE?si=MKLAcNZ8uNQCImKI"> Demo Video on YouTube </a>
 
 ## Setup
 
