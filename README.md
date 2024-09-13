@@ -1,11 +1,11 @@
 # AI-Card-Conundrum
 Algorithm for Best Strategy in an UnoWar Style Card Game!
 
-<img src="Code/assets/Cards.png" width="600">
+<img src="assets/Cards.png" width="600">
 
 ## Check Out the WinRates Below!
 
-<img src="Code/assets/WinRate.png" width="600">
+<img src="assets/WinRate.png" width="600">
 
 ### What I Learned
 - Inheritance and Polymorphism
